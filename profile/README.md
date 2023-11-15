@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/cms_logo_with_outline.png" alt="Logo" width="70%"/>
+  <img src="https://raw.githubusercontent.com/CRAFT-MY-STREET/.github/main/profile/images/cms_logo_with_outline.png" alt="Logo" width="70%"/>
 </p>
 
 # CRAFT-MY-STREET-Project
